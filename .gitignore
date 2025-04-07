@@ -1,0 +1,18 @@
+# Ambiente Virtual Python
+.venv/
+
+# Pastas de dados (geradas/baixadas pelo script)
+csv_raw/
+csv_cleaned/
+csv_final/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
