@@ -1,0 +1,1 @@
+Projeto de ETL com Python para o dataset 'Supermarket Sales' do Kaggle. O notebook Jupyter realiza a extração dos dados via API Kaggle, aplica limpeza e transformações (datas, cálculos financeiros) usando Pandas, e prepara a base para análise e visualização no Power BI. Foco em boas práticas de preparação de dados para Business Intelligence.
